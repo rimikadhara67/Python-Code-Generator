@@ -1,0 +1,6 @@
+# Ignore the GitHub token file
+token.txt
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
