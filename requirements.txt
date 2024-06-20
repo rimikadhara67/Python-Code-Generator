@@ -1,0 +1,5 @@
+curtsies
+PyGithub
+transformers
+datasets
+torch
