@@ -6,6 +6,9 @@ This personal project aims to train GPT-2 and BERT models on Python code sourced
 
 The dataset consists of Python files created on GitHub within a span of 6 days. These files are tokenized and fed into the transformer models (GPT-2 and BERT) to generate code. However, the project's scope and accuracy are limited due to the small data volume and insufficient computational resources. Thus far, I have only attempted to train the model using a single NVIDIA GeForce GPU.
 
+### Next Step
+My next goal is to try to create the GPT-2 model and BERT model from scratch to truly understand the nuances, differences, and strenghts of the two transformer models.
+
 ## Highlights
 
 - **Data Collection:** Gathered Python files from GitHub repositories.
